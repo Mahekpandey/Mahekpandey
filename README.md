@@ -1,9 +1,15 @@
 - 👋 Hi, I’m @Mahekpandey
 - 👀 I’m interested in WEB + App + ML Development
 - 🌱 I’m currently learning WEB Developmnet
-- 💞️ I’m looking to collaborate 
 - 📫 https://www.linkedin.com/in/mahek-pandey-39243b258/
 - 😄 Pronouns: she/her
+- Programming languages: Kotlin,Python,javascript,c,c++
+- WEB DEV:
+- FRAMEWORKS :REACT,NEXT.JS,TAILWIND CSS
+- DATABASES : FIREBASE,MONGODB
+- APP DEV :
+- KOTLIN,FLUTTER,JET PACK COMPOSE,XML,MVVM,REST API'S
+  
   
 
 <!---

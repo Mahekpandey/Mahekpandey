@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahekpandey
 - 👀 I’m interested in WEB + App + ML Development
-- 🌱 I’m currently learning WEB Developmnet
+- 🌱 I’m currently learning AI/ML 
 - 📫 https://www.linkedin.com/in/mahek-pandey-39243b258/
 - 😄 Pronouns: she/her
 - Programming languages: Kotlin,Python,javascript,c,c++
